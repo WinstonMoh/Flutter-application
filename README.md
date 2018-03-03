@@ -1,5 +1,5 @@
 # Flutter application done during HackFSU 2018
-# my_app
+# Meet App
 
 A new Flutter project.
 
