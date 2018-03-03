@@ -1,4 +1,4 @@
-# Flutter application
+# Flutter application done during HackFSU 2018
 # my_app
 
 A new Flutter project.
@@ -16,3 +16,6 @@ For help getting started with Flutter, view our online
 - Install Android emulator or Genymotion for android Device simulation.
 
 - To run Application - type `flutter run` in command line.
+
+
+Copyright 2018.
